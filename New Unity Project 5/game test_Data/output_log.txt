@@ -1,0 +1,58 @@
+Initialize engine version: 5.1.0f3 (ec70b008569d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 10.18.13.5330]
+    Renderer: NVIDIA GeForce GTX 760
+    Vendor:   NVIDIA
+    VRAM:     1990 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\kwanyuhung\Documents\New Unity Project 5\game test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\kwanyuhung\Documents\New Unity Project 5\game test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\kwanyuhung\Documents\New Unity Project 5\game test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\kwanyuhung\Documents\New Unity Project 5\game test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\kwanyuhung\Documents\New Unity Project 5\game test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\kwanyuhung\Documents\New Unity Project 5\game test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\kwanyuhung\Documents\New Unity Project 5\game test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\kwanyuhung\Documents\New Unity Project 5\game test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\kwanyuhung\Documents\New Unity Project 5\game test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\kwanyuhung\Documents\New Unity Project 5\game test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\kwanyuhung\Documents\New Unity Project 5\game test_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\kwanyuhung\Documents\New Unity Project 5\game test_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.043 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\kwanyuhung\Documents\New Unity Project 5\game test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\kwanyuhung\Documents\New Unity Project 5\game test_Data\Managed\System.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.076264 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 163.
+Total: 0.342549 ms (FindLiveObjects: 0.020848 ms CreateObjectMapping: 0.028545 ms MarkObjects: 0.282570 ms  DeleteObjects: 0.008018 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.645005 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 179.
+Total: 0.252421 ms (FindLiveObjects: 0.012508 ms CreateObjectMapping: 0.013471 ms MarkObjects: 0.216177 ms  DeleteObjects: 0.009942 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.671754 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 173.
+Total: 0.370132 ms (FindLiveObjects: 0.020527 ms CreateObjectMapping: 0.024696 ms MarkObjects: 0.306947 ms  DeleteObjects: 0.017640 ms)
+
