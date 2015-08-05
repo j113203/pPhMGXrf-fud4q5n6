@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: bf33fa87091d50b4abe53a864a970d3e
+timeCreated: 1435857063
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: alllmoive_theboss_01_nothing_change_0
+    21300002: alllmoive_theboss_01_nothing_change_1
+    21300004: alllmoive_theboss_01_nothing_change_2
+    21300006: alllmoive_theboss_01_nothing_change_3
+    21300008: alllmoive_theboss_01_nothing_change_4
+    21300010: alllmoive_theboss_01_nothing_change_5
+    21300012: alllmoive_theboss_01_nothing_change_6
+    21300014: alllmoive_theboss_01_nothing_change_7
+    21300016: alllmoive_theboss_01_nothing_change_8
+    21300018: alllmoive_theboss_01_nothing_change_9
+    21300020: alllmoive_theboss_01_nothing_change_10
+    21300022: alllmoive_theboss_01_nothing_change_11
+    21300024: alllmoive_theboss_01_nothing_change_12
+    21300026: alllmoive_theboss_01_nothing_change_13
+    21300028: alllmoive_theboss_01_nothing_change_14
+    21300030: alllmoive_theboss_01_nothing_change_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Web
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: alllmoive_theboss_01_nothing_change_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1228
+        width: 206
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alllmoive_theboss_01_nothing_change_1
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1228
+        width: 234
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alllmoive_theboss_01_nothing_change_2
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1223
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alllmoive_theboss_01_nothing_change_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 940
+        width: 230
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alllmoive_theboss_01_nothing_change_4
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 874
+        width: 159
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alllmoive_theboss_01_nothing_change_5
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 874
+        width: 159
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alllmoive_theboss_01_nothing_change_6
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 869
+        width: 159
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alllmoive_theboss_01_nothing_change_7
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 632
+        width: 202
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alllmoive_theboss_01_nothing_change_8
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 632
+        width: 194
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alllmoive_theboss_01_nothing_change_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 353
+        width: 231
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alllmoive_theboss_01_nothing_change_10
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 344
+        width: 210
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alllmoive_theboss_01_nothing_change_11
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 353
+        width: 203
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alllmoive_theboss_01_nothing_change_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 60
+        width: 246
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alllmoive_theboss_01_nothing_change_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 60
+        width: 206
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alllmoive_theboss_01_nothing_change_14
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 60
+        width: 205
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alllmoive_theboss_01_nothing_change_15
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 61
+        width: 196
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
